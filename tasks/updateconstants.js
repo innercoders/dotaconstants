@@ -69,7 +69,7 @@ const aghs_desc_urls = [];
 
 for (const hero_id in hero_list) {
   aghs_desc_urls.push(
-    "http://www.dota2.com/datafeed/herodata?language=english&hero_id=" + hero_id
+    "http://www.dota2.com/datafeed/herodata?language=portuguese&hero_id=" + hero_id
   );
 }
 
@@ -77,7 +77,7 @@ const sources = [
   {
     key: "items",
     url: [
-      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/abilities_english.json",
+      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/abilities_portuguese.json",
       "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/npc/items.json",
       "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/npc/neutral_items.txt"
     ],
@@ -118,12 +118,12 @@ const sources = [
           };
 
           item.id = parseInt(scripts[key].ID);
-          item.img = `/apps/dota2/images/items/${key.replace(
+          item.img = `/assets/img/items/${key.replace(
             /^item_/,
             ""
-          )}_lg.png?t=${1593393829403}`;
+          )}.png`;
           if (key.includes("item_recipe")) {
-            item.img = `/apps/dota2/images/items/recipe_lg.png?t=${1593393829403}`;
+            item.img = `/assets/img/items/recipe.png`;
           }
 
           item.dname = strings[`DOTA_Tooltip_ability_${key}`];
@@ -306,7 +306,7 @@ const sources = [
   {
     key: "abilities",
     url: [
-      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/abilities_english.json",
+      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/abilities_portuguese.json",
       "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/npc/npc_abilities.json"
     ],
     transform: (respObj) => {
@@ -401,7 +401,7 @@ const sources = [
             }
           }
 
-          ability.img = `/apps/dota2/images/abilities/${key}_md.png`;
+          ability.img = `/assets/img/abilities/${key}.png`;
           if (key.indexOf("special_bonus") === 0) {
             ability = { dname: ability.dname };
           }
@@ -427,9 +427,9 @@ const sources = [
   {
     key: "heroes",
     url: [
-      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/dota_english.json",
+      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/dota_portuguese.json",
       "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/npc/npc_heroes.json"
-      // "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/dota_english.json",
+      // "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/dota_portuguese.json",
     ],
     transform: (respObj) => {
       let heroes = [];
@@ -456,9 +456,9 @@ const sources = [
   {
     key: "hero_names",
     url: [
-      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/dota_english.json",
+      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/dota_portuguese.json",
       "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/npc/npc_heroes.json"
-      // "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/dota_english.json",
+      // "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/dota_portuguese.json",
     ],
     transform: (respObj) => {
       let heroes = [];
@@ -573,8 +573,8 @@ const sources = [
     key: "chat_wheel",
     url: [
       "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/chat_wheel.txt",
-      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/dota_english.json",
-      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/hero_chat_wheel_english.txt"
+      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/dota_portuguese.json",
+      "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/hero_chat_wheel_portuguese.txt"
     ],
     transform: (respObj) => {
       const chat_wheel = respObj[0];
@@ -630,7 +630,7 @@ const sources = [
   },
   {
     key: "patchnotes",
-    url: "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/patchnotes/patchnotes_english.txt",
+    url: "https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/resource/localization/patchnotes/patchnotes_portuguese.txt",
     transform: (respObj) => {
       let items = Object.keys(require("../build/items.json"));
       let heroes = Object.keys(require("../build/hero_names.json")).map(
@@ -798,7 +798,7 @@ if (dayDifference > 14) {
 */
 fs.writeFileSync("./json/patch.json", JSON.stringify(newPatches, null, 1));
 
-// "heropickerdata": "http://www.dota2.com/jsfeed/heropickerdata?l=english",
+// "heropickerdata": "http://www.dota2.com/jsfeed/heropickerdata?l=portuguese",
 // "heropediadata": "http://www.dota2.com/jsfeed/heropediadata?feeds=herodata",
 // "leagues": "https://api.opendota.com/api/leagues",
 async.each(
@@ -1156,15 +1156,16 @@ function formatVpkHero(key, vpkr, localized_name) {
       ? "Melee"
       : "Ranged";
   h.roles = vpkrh.Role.split(",");
+  h.roles_levels = vpkrh.Rolelevels.split(",");
 
   h.img =
-    "/apps/dota2/images/dota_react/heroes/" +
+    "/assets/img/heroes/" +
     key.replace("npc_dota_hero_", "") +
-    ".png?";
+    ".png";
   h.icon =
-    "/apps/dota2/images/dota_react/heroes/icons/" +
+    "/assets/img/heroes/" +
     key.replace("npc_dota_hero_", "") +
-    ".png?";
+    "_icon.png";
   h.url = vpkrh.url;
 
   h.base_health = Number(vpkrh.StatusHealth || baseHero.StatusHealth);

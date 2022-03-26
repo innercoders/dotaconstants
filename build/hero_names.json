@@ -10,8 +10,13 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/antimage.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/antimage.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/antimage.png",
+    "icon": "/assets/img/heroes/antimage_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -47,8 +52,15 @@
       "Jungler",
       "Carry"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/axe.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/axe.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/axe.png",
+    "icon": "/assets/img/heroes/axe_icon.png",
     "base_health": 200,
     "base_health_regen": 2.75,
     "base_mana": 75,
@@ -83,8 +95,14 @@
       "Nuker",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/bane.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/bane.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/bane.png",
+    "icon": "/assets/img/heroes/bane_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -120,8 +138,15 @@
       "Nuker",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/bloodseeker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/bloodseeker.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/bloodseeker.png",
+    "icon": "/assets/img/heroes/bloodseeker_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -156,8 +181,14 @@
       "Nuker",
       "Jungler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/crystal_maiden.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/crystal_maiden.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/crystal_maiden.png",
+    "icon": "/assets/img/heroes/crystal_maiden_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -191,8 +222,13 @@
       "Disabler",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/drow_ranger.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/drow_ranger.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/drow_ranger.png",
+    "icon": "/assets/img/heroes/drow_ranger_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -227,8 +263,14 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/earthshaker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/earthshaker.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/earthshaker.png",
+    "icon": "/assets/img/heroes/earthshaker_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -262,8 +304,13 @@
       "Pusher",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/juggernaut.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/juggernaut.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/juggernaut.png",
+    "icon": "/assets/img/heroes/juggernaut_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -299,8 +346,15 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/mirana.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/mirana.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/mirana.png",
+    "icon": "/assets/img/heroes/mirana_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -336,8 +390,15 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/morphling.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/morphling.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/morphling.png",
+    "icon": "/assets/img/heroes/morphling_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -370,8 +431,12 @@
       "Carry",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/nevermore.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/nevermore.png?",
+    "roles_levels": [
+      "2",
+      "3"
+    ],
+    "img": "/assets/img/heroes/nevermore.png",
+    "icon": "/assets/img/heroes/nevermore_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -406,8 +471,14 @@
       "Pusher",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/phantom_lancer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/phantom_lancer.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/phantom_lancer.png",
+    "icon": "/assets/img/heroes/phantom_lancer_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
@@ -442,8 +513,14 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/puck.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/puck.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "3",
+      "2"
+    ],
+    "img": "/assets/img/heroes/puck.png",
+    "icon": "/assets/img/heroes/puck_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -478,8 +555,14 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/pudge.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/pudge.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/pudge.png",
+    "icon": "/assets/img/heroes/pudge_icon.png",
     "base_health": 200,
     "base_health_regen": 2,
     "base_mana": 75,
@@ -514,8 +597,14 @@
       "Nuker",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/razor.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/razor.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/razor.png",
+    "icon": "/assets/img/heroes/razor_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -552,8 +641,16 @@
       "Escape",
       "Jungler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/sand_king.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/sand_king.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/sand_king.png",
+    "icon": "/assets/img/heroes/sand_king_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -589,8 +686,15 @@
       "Initiator",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/storm_spirit.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/storm_spirit.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/storm_spirit.png",
+    "icon": "/assets/img/heroes/storm_spirit_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -626,8 +730,15 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/sven.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/sven.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/sven.png",
+    "icon": "/assets/img/heroes/sven_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -664,8 +775,16 @@
       "Durable",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/tiny.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/tiny.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/tiny.png",
+    "icon": "/assets/img/heroes/tiny_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
@@ -701,8 +820,15 @@
       "Nuker",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/vengefulspirit.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/vengefulspirit.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/vengefulspirit.png",
+    "icon": "/assets/img/heroes/vengefulspirit_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -738,8 +864,15 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/windrunner.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/windrunner.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/windrunner.png",
+    "icon": "/assets/img/heroes/windrunner_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -772,8 +905,12 @@
       "Nuker",
       "Carry"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/zuus.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/zuus.png?",
+    "roles_levels": [
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/zuus.png",
+    "icon": "/assets/img/heroes/zuus_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -810,8 +947,16 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/kunkka.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/kunkka.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/kunkka.png",
+    "icon": "/assets/img/heroes/kunkka_icon.png",
     "base_health": 200,
     "base_health_regen": 0.75,
     "base_mana": 75,
@@ -846,8 +991,14 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/lina.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/lina.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/lina.png",
+    "icon": "/assets/img/heroes/lina_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -882,8 +1033,14 @@
       "Nuker",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/lion.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/lion.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "3",
+      "2"
+    ],
+    "img": "/assets/img/heroes/lion.png",
+    "icon": "/assets/img/heroes/lion_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -919,8 +1076,15 @@
       "Nuker",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/shadow_shaman.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/shadow_shaman.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/shadow_shaman.png",
+    "icon": "/assets/img/heroes/shadow_shaman_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -956,8 +1120,15 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/slardar.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/slardar.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/slardar.png",
+    "icon": "/assets/img/heroes/slardar_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -993,8 +1164,15 @@
       "Nuker",
       "Carry"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/tidehunter.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/tidehunter.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/tidehunter.png",
+    "icon": "/assets/img/heroes/tidehunter_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1028,8 +1206,13 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/witch_doctor.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/witch_doctor.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/witch_doctor.png",
+    "icon": "/assets/img/heroes/witch_doctor_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1062,8 +1245,12 @@
       "Support",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/lich.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/lich.png?",
+    "roles_levels": [
+      "3",
+      "2"
+    ],
+    "img": "/assets/img/heroes/lich.png",
+    "icon": "/assets/img/heroes/lich_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1097,8 +1284,13 @@
       "Escape",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/riki.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/riki.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/riki.png",
+    "icon": "/assets/img/heroes/riki_icon.png",
     "base_health": 200,
     "base_health_regen": 2.5,
     "base_mana": 75,
@@ -1133,8 +1325,14 @@
       "Initiator",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/enigma.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/enigma.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "2"
+    ],
+    "img": "/assets/img/heroes/enigma.png",
+    "icon": "/assets/img/heroes/enigma_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1168,8 +1366,13 @@
       "Nuker",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/tinker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/tinker.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "2"
+    ],
+    "img": "/assets/img/heroes/tinker.png",
+    "icon": "/assets/img/heroes/tinker_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1202,8 +1405,12 @@
       "Carry",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/sniper.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/sniper.png?",
+    "roles_levels": [
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/sniper.png",
+    "icon": "/assets/img/heroes/sniper_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1238,8 +1445,14 @@
       "Durable",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/necrolyte.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/necrolyte.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/necrolyte.png",
+    "icon": "/assets/img/heroes/necrolyte_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1273,8 +1486,13 @@
       "Initiator",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/warlock.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/warlock.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/warlock.png",
+    "icon": "/assets/img/heroes/warlock_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1309,8 +1527,14 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/beastmaster.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/beastmaster.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/beastmaster.png",
+    "icon": "/assets/img/heroes/beastmaster_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1344,8 +1568,13 @@
       "Nuker",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/queenofpain.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/queenofpain.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "3"
+    ],
+    "img": "/assets/img/heroes/queenofpain.png",
+    "icon": "/assets/img/heroes/queenofpain_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1381,8 +1610,15 @@
       "Pusher",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/venomancer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/venomancer.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/venomancer.png",
+    "icon": "/assets/img/heroes/venomancer_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1418,8 +1654,15 @@
       "Escape",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/faceless_void.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/faceless_void.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/faceless_void.png",
+    "icon": "/assets/img/heroes/faceless_void_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -1455,8 +1698,15 @@
       "Disabler",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/skeleton_king.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/skeleton_king.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/skeleton_king.png",
+    "icon": "/assets/img/heroes/skeleton_king_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1491,8 +1741,14 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/death_prophet.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/death_prophet.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/death_prophet.png",
+    "icon": "/assets/img/heroes/death_prophet_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1525,8 +1781,12 @@
       "Carry",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/phantom_assassin.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/phantom_assassin.png?",
+    "roles_levels": [
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/phantom_assassin.png",
+    "icon": "/assets/img/heroes/phantom_assassin_icon.png",
     "base_health": 200,
     "base_health_regen": 0.75,
     "base_mana": 75,
@@ -1559,8 +1819,12 @@
       "Nuker",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/pugna.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/pugna.png?",
+    "roles_levels": [
+      "2",
+      "2"
+    ],
+    "img": "/assets/img/heroes/pugna.png",
+    "icon": "/assets/img/heroes/pugna_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1593,8 +1857,12 @@
       "Carry",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/templar_assassin.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/templar_assassin.png?",
+    "roles_levels": [
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/templar_assassin.png",
+    "icon": "/assets/img/heroes/templar_assassin_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1629,8 +1897,14 @@
       "Initiator",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/viper.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/viper.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/viper.png",
+    "icon": "/assets/img/heroes/viper_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1664,8 +1938,13 @@
       "Nuker",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/luna.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/luna.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/luna.png",
+    "icon": "/assets/img/heroes/luna_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -1702,8 +1981,16 @@
       "Initiator",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/dragon_knight.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/dragon_knight.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/dragon_knight.png",
+    "icon": "/assets/img/heroes/dragon_knight_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1737,8 +2024,13 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/dazzle.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/dazzle.png?",
+    "roles_levels": [
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/dazzle.png",
+    "icon": "/assets/img/heroes/dazzle_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1773,8 +2065,14 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/rattletrap.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/rattletrap.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/rattletrap.png",
+    "icon": "/assets/img/heroes/rattletrap_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1810,8 +2108,15 @@
       "Pusher",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/leshrac.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/leshrac.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "3",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/leshrac.png",
+    "icon": "/assets/img/heroes/leshrac_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1847,8 +2152,15 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/furion.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/furion.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/furion.png",
+    "icon": "/assets/img/heroes/furion_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1884,8 +2196,15 @@
       "Escape",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/life_stealer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/life_stealer.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/life_stealer.png",
+    "icon": "/assets/img/heroes/life_stealer_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1920,8 +2239,14 @@
       "Escape",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/dark_seer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/dark_seer.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/dark_seer.png",
+    "icon": "/assets/img/heroes/dark_seer_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1955,8 +2280,13 @@
       "Escape",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/clinkz.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/clinkz.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/clinkz.png",
+    "icon": "/assets/img/heroes/clinkz_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -1990,8 +2320,13 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/omniknight.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/omniknight.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/omniknight.png",
+    "icon": "/assets/img/heroes/omniknight_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2027,8 +2362,15 @@
       "Durable",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/enchantress.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/enchantress.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/enchantress.png",
+    "icon": "/assets/img/heroes/enchantress_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2062,8 +2404,13 @@
       "Durable",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/huskar.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/huskar.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/huskar.png",
+    "icon": "/assets/img/heroes/huskar_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2099,8 +2446,15 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/night_stalker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/night_stalker.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/night_stalker.png",
+    "icon": "/assets/img/heroes/night_stalker_icon.png",
     "base_health": 200,
     "base_health_regen": 2,
     "base_mana": 75,
@@ -2135,8 +2489,14 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/broodmother.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/broodmother.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/broodmother.png",
+    "icon": "/assets/img/heroes/broodmother_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2169,8 +2529,12 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/bounty_hunter.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/bounty_hunter.png?",
+    "roles_levels": [
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/bounty_hunter.png",
+    "icon": "/assets/img/heroes/bounty_hunter_icon.png",
     "base_health": 200,
     "base_health_regen": 1.25,
     "base_mana": 75,
@@ -2203,8 +2567,12 @@
       "Carry",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/weaver.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/weaver.png?",
+    "roles_levels": [
+      "2",
+      "3"
+    ],
+    "img": "/assets/img/heroes/weaver.png",
+    "icon": "/assets/img/heroes/weaver_icon.png",
     "base_health": 200,
     "base_health_regen": 1.25,
     "base_mana": 75,
@@ -2239,8 +2607,14 @@
       "Pusher",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/jakiro.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/jakiro.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/jakiro.png",
+    "icon": "/assets/img/heroes/jakiro_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2275,8 +2649,14 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/batrider.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/batrider.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/batrider.png",
+    "icon": "/assets/img/heroes/batrider_icon.png",
     "base_health": 200,
     "base_health_regen": 1.75,
     "base_mana": 75,
@@ -2310,8 +2690,13 @@
       "Jungler",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/chen.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/chen.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2"
+    ],
+    "img": "/assets/img/heroes/chen.png",
+    "icon": "/assets/img/heroes/chen_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2345,8 +2730,13 @@
       "Durable",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/spectre.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/spectre.png?",
+    "roles_levels": [
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/spectre.png",
+    "icon": "/assets/img/heroes/spectre_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
@@ -2380,8 +2770,13 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/ancient_apparition.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/ancient_apparition.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/ancient_apparition.png",
+    "icon": "/assets/img/heroes/ancient_apparition_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2417,8 +2812,15 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/doom_bringer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/doom_bringer.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/doom_bringer.png",
+    "icon": "/assets/img/heroes/doom_bringer_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2453,8 +2855,14 @@
       "Durable",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/ursa.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/ursa.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/ursa.png",
+    "icon": "/assets/img/heroes/ursa_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -2490,8 +2898,15 @@
       "Durable",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/spirit_breaker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/spirit_breaker.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/spirit_breaker.png",
+    "icon": "/assets/img/heroes/spirit_breaker_icon.png",
     "base_health": 200,
     "base_health_regen": 1.25,
     "base_mana": 75,
@@ -2525,8 +2940,13 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/gyrocopter.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/gyrocopter.png?",
+    "roles_levels": [
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/gyrocopter.png",
+    "icon": "/assets/img/heroes/gyrocopter_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2563,8 +2983,16 @@
       "Initiator",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/alchemist.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/alchemist.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/alchemist.png",
+    "icon": "/assets/img/heroes/alchemist_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2600,8 +3028,15 @@
       "Escape",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/invoker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/invoker.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/invoker.png",
+    "icon": "/assets/img/heroes/invoker_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2637,8 +3072,15 @@
       "Initiator",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/silencer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/silencer.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/silencer.png",
+    "icon": "/assets/img/heroes/silencer_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2672,8 +3114,13 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/obsidian_destroyer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/obsidian_destroyer.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/obsidian_destroyer.png",
+    "icon": "/assets/img/heroes/obsidian_destroyer_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -2709,8 +3156,15 @@
       "Durable",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/lycan.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/lycan.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/lycan.png",
+    "icon": "/assets/img/heroes/lycan_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2746,8 +3200,15 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/brewmaster.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/brewmaster.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/brewmaster.png",
+    "icon": "/assets/img/heroes/brewmaster_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -2782,8 +3243,14 @@
       "Initiator",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/shadow_demon.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/shadow_demon.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/shadow_demon.png",
+    "icon": "/assets/img/heroes/shadow_demon_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2818,8 +3285,14 @@
       "Jungler",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/lone_druid.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/lone_druid.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/lone_druid.png",
+    "icon": "/assets/img/heroes/lone_druid_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2855,8 +3328,15 @@
       "Pusher",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/chaos_knight.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/chaos_knight.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/chaos_knight.png",
+    "icon": "/assets/img/heroes/chaos_knight_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2893,8 +3373,16 @@
       "Initiator",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/meepo.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/meepo.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/meepo.png",
+    "icon": "/assets/img/heroes/meepo_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2930,8 +3418,15 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/treant.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/treant.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/treant.png",
+    "icon": "/assets/img/heroes/treant_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2967,8 +3462,15 @@
       "Durable",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/ogre_magi.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/ogre_magi.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/ogre_magi.png",
+    "icon": "/assets/img/heroes/ogre_magi_icon.png",
     "base_health": 200,
     "base_health_regen": 3.25,
     "base_mana": 75,
@@ -3003,8 +3505,14 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/undying.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/undying.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/undying.png",
+    "icon": "/assets/img/heroes/undying_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3038,8 +3546,13 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/rubick.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/rubick.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/rubick.png",
+    "icon": "/assets/img/heroes/rubick_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3074,8 +3587,14 @@
       "Nuker",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/disruptor.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/disruptor.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/disruptor.png",
+    "icon": "/assets/img/heroes/disruptor_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3110,8 +3629,14 @@
       "Initiator",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/nyx_assassin.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/nyx_assassin.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/nyx_assassin.png",
+    "icon": "/assets/img/heroes/nyx_assassin_icon.png",
     "base_health": 200,
     "base_health_regen": 2,
     "base_mana": 75,
@@ -3148,8 +3673,16 @@
       "Initiator",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/naga_siren.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/naga_siren.png?",
+    "roles_levels": [
+      "3",
+      "1",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/naga_siren.png",
+    "icon": "/assets/img/heroes/naga_siren_icon.png",
     "base_health": 200,
     "base_health_regen": 1.5,
     "base_mana": 75,
@@ -3184,8 +3717,14 @@
       "Disabler",
       "Jungler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/keeper_of_the_light.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/keeper_of_the_light.png",
+    "icon": "/assets/img/heroes/keeper_of_the_light_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3219,8 +3758,13 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/wisp.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/wisp.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/wisp.png",
+    "icon": "/assets/img/heroes/wisp_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3256,8 +3800,15 @@
       "Disabler",
       "Pusher"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/visage.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/visage.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/visage.png",
+    "icon": "/assets/img/heroes/visage_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3292,8 +3843,14 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/slark.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/slark.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/slark.png",
+    "icon": "/assets/img/heroes/slark_icon.png",
     "base_health": 200,
     "base_health_regen": 1.75,
     "base_mana": 75,
@@ -3327,8 +3884,13 @@
       "Disabler",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/medusa.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/medusa.png?",
+    "roles_levels": [
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/medusa.png",
+    "icon": "/assets/img/heroes/medusa_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3363,8 +3925,14 @@
       "Disabler",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/troll_warlord.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/troll_warlord.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/troll_warlord.png",
+    "icon": "/assets/img/heroes/troll_warlord_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3400,8 +3968,15 @@
       "Nuker",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/centaur.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/centaur.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/centaur.png",
+    "icon": "/assets/img/heroes/centaur_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3436,8 +4011,14 @@
       "Nuker",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/magnataur.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/magnataur.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/magnataur.png",
+    "icon": "/assets/img/heroes/magnataur_icon.png",
     "base_health": 200,
     "base_health_regen": 0.5,
     "base_mana": 75,
@@ -3471,8 +4052,13 @@
       "Durable",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/shredder.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/shredder.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "2"
+    ],
+    "img": "/assets/img/heroes/shredder.png",
+    "icon": "/assets/img/heroes/shredder_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3507,8 +4093,14 @@
       "Initiator",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/bristleback.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/bristleback.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/bristleback.png",
+    "icon": "/assets/img/heroes/bristleback_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3542,8 +4134,13 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/tusk.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/tusk.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/tusk.png",
+    "icon": "/assets/img/heroes/tusk_icon.png",
     "base_health": 200,
     "base_health_regen": 0.75,
     "base_mana": 75,
@@ -3577,8 +4174,13 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/skywrath_mage.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/skywrath_mage.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/skywrath_mage.png",
+    "icon": "/assets/img/heroes/skywrath_mage_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3612,8 +4214,13 @@
       "Carry",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/abaddon.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/abaddon.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "2"
+    ],
+    "img": "/assets/img/heroes/abaddon.png",
+    "icon": "/assets/img/heroes/abaddon_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -3648,8 +4255,14 @@
       "Nuker",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/elder_titan.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/elder_titan.png?",
+    "roles_levels": [
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/elder_titan.png",
+    "icon": "/assets/img/heroes/elder_titan_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3685,8 +4298,15 @@
       "Durable",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/legion_commander.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/legion_commander.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/legion_commander.png",
+    "icon": "/assets/img/heroes/legion_commander_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3719,8 +4339,12 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/techies.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/techies.png?",
+    "roles_levels": [
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/techies.png",
+    "icon": "/assets/img/heroes/techies_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3756,8 +4380,15 @@
       "Disabler",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/ember_spirit.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/ember_spirit.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/ember_spirit.png",
+    "icon": "/assets/img/heroes/ember_spirit_icon.png",
     "base_health": 200,
     "base_health_regen": 0.75,
     "base_mana": 75,
@@ -3793,8 +4424,15 @@
       "Initiator",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/earth_spirit.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/earth_spirit.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/earth_spirit.png",
+    "icon": "/assets/img/heroes/earth_spirit_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -3830,8 +4468,15 @@
       "Durable",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/abyssal_underlord.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/abyssal_underlord.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "2"
+    ],
+    "img": "/assets/img/heroes/abyssal_underlord.png",
+    "icon": "/assets/img/heroes/abyssal_underlord_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3865,8 +4510,13 @@
       "Pusher",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/terrorblade.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/terrorblade.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/terrorblade.png",
+    "icon": "/assets/img/heroes/terrorblade_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -3902,8 +4552,15 @@
       "Escape",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/phoenix.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/phoenix.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/phoenix.png",
+    "icon": "/assets/img/heroes/phoenix_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -3938,8 +4595,14 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/oracle.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/oracle.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/oracle.png",
+    "icon": "/assets/img/heroes/oracle_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3973,8 +4636,13 @@
       "Disabler",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/winter_wyvern.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/winter_wyvern.png?",
+    "roles_levels": [
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/winter_wyvern.png",
+    "icon": "/assets/img/heroes/winter_wyvern_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4008,8 +4676,13 @@
       "Escape",
       "Nuker"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/arc_warden.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/arc_warden.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "1"
+    ],
+    "img": "/assets/img/heroes/arc_warden.png",
+    "icon": "/assets/img/heroes/arc_warden_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4044,8 +4717,14 @@
       "Disabler",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/monkey_king.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/monkey_king.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/monkey_king.png",
+    "icon": "/assets/img/heroes/monkey_king_icon.png",
     "base_health": 200,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -4080,8 +4759,14 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/dark_willow.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/dark_willow.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "2"
+    ],
+    "img": "/assets/img/heroes/dark_willow.png",
+    "icon": "/assets/img/heroes/dark_willow_icon.png",
     "base_health": 200,
     "base_health_regen": 0.75,
     "base_mana": 75,
@@ -4118,8 +4803,16 @@
       "Escape",
       "Initiator"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/pangolier.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/pangolier.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "1",
+      "1",
+      "2",
+      "2"
+    ],
+    "img": "/assets/img/heroes/pangolier.png",
+    "icon": "/assets/img/heroes/pangolier_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4154,8 +4847,14 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/grimstroke.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/grimstroke.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/grimstroke.png",
+    "icon": "/assets/img/heroes/grimstroke_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4190,8 +4889,14 @@
       "Escape",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/hoodwink.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/hoodwink.png?",
+    "roles_levels": [
+      "2",
+      "2",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/hoodwink.png",
+    "icon": "/assets/img/heroes/hoodwink_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4226,8 +4931,14 @@
       "Nuker",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/void_spirit.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/void_spirit.png?",
+    "roles_levels": [
+      "2",
+      "3",
+      "2",
+      "1"
+    ],
+    "img": "/assets/img/heroes/void_spirit.png",
+    "icon": "/assets/img/heroes/void_spirit_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4262,8 +4973,14 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/snapfire.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/snapfire.png?",
+    "roles_levels": [
+      "1",
+      "3",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/snapfire.png",
+    "icon": "/assets/img/heroes/snapfire_icon.png",
     "base_health": 200,
     "base_health_regen": 0.75,
     "base_mana": 75,
@@ -4298,8 +5015,14 @@
       "Disabler",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/mars.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/mars.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "2",
+      "3"
+    ],
+    "img": "/assets/img/heroes/mars.png",
+    "icon": "/assets/img/heroes/mars_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4332,8 +5055,15 @@
       "Carry",
       "Durable"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/dawnbreaker.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/dawnbreaker.png?",
+    "roles_levels": [
+      "1",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/dawnbreaker.png",
+    "icon": "/assets/img/heroes/dawnbreaker_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4369,8 +5099,15 @@
       "Disabler",
       "Escape"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/marci.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/marci.png?",
+    "roles_levels": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1"
+    ],
+    "img": "/assets/img/heroes/marci.png",
+    "icon": "/assets/img/heroes/marci_icon.png",
     "base_health": 200,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -4404,8 +5141,13 @@
       "Durable",
       "Disabler"
     ],
-    "img": "/apps/dota2/images/dota_react/heroes/primal_beast.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/primal_beast.png?",
+    "roles_levels": [
+      "3",
+      "3",
+      "2"
+    ],
+    "img": "/assets/img/heroes/primal_beast.png",
+    "icon": "/assets/img/heroes/primal_beast_icon.png",
     "base_health": 200,
     "base_health_regen": 0,
     "base_mana": 75,
